@@ -1,0 +1,3 @@
+springdemo.mvc.form.CustomerController=org.springframework.stereotype.Component
+springdemo.mvc.form.HomeController=org.springframework.stereotype.Component
+springdemo.mvc.form.StudentController=org.springframework.stereotype.Component
